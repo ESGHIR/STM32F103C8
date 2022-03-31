@@ -1,2 +1,2 @@
-# STM32F103C8
- Blinking a Led
+# STM32f103c8_Blinking_project
+STM32f103c8_Blinking_project
